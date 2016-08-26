@@ -1,5 +1,12 @@
 # Vancouver Tech Meetup (Workshop)
 
+## Sample Topics
+
+  * Design Patterns
+  * Algorithms
+  * CI/CD
+  * Interview Questions
+
 ## General Flow
 
   * 6:00pm - Arrive, mingle, connect to WIFI, find a seat
