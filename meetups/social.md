@@ -1,12 +1,12 @@
 # Vancouver Tech Meetup (Social)
 
-##General Flow
+## General Flow
 
   * 8:00pm - Arrive, mingle, talk tech
   * 9:00pm - Community Shout Outs
   * 10:30pm - Time to Leave
 
-##Requirements  
+## Requirements  
   
   * Venue
     - within walking distance from Granville & Georgia
